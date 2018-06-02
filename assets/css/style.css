@@ -1,0 +1,46 @@
+.pad{
+    padding: 0px;
+}
+
+
+body {background-image: url("../images/background.png");
+    }
+
+#title{
+    color: white;
+    font-size: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color:#4aaaa5;
+    margin: 0;}
+
+#h1 {color:#4aaaa5;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-bottom-style: solid;
+    border-bottom-color:#dddddd;}
+
+.content{
+    background-color: white;
+    font-size: 16px;
+    font-family:'Times New Roman';
+    letter-spacing: 1px;
+    line-height: 1.5;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width: 1px; 
+}
+
+
+#footer{
+    color:white;
+    font-size:10px;
+    font-weight: 100;
+    background-color:#666666;
+    border-top-style: solid;
+    border-top-width: 7px;
+    border-top-color:#4aaaa5;
+    padding: 15px;
+}
+
+
